@@ -1,0 +1,68 @@
+.wraper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-image: url("/public/Asset/vi-tran-N6CI_FylSMo-unsplash.jpg");
+}
+
+.customWraper {
+    margin: 16px;
+    width: 500px;
+    background-color:whitesmoke;
+    border-radius: 25px;
+    backdrop-filter: blur(1px);
+}
+
+.text2 {
+
+    padding: 16px;
+    font-size: 36px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    color: rgb(153 3 3);
+
+}
+.custom-form2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px;
+
+
+}
+.custom-input-group2 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    align-items: stretch;
+    /* margin-bottom: px; */
+}
+.custom-input2 {
+    height: 50px;
+    outline: none;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    background-color: rgb(207, 237, 237);
+    vertical-align: middle;
+    font-size: 18px;
+    color: rgb(34, 27, 27);
+    padding-left: 16px;
+}
+.custom-level2 {
+    text-align: left;
+    margin-bottom: -2px;
+    color: rgb(6, 6, 84);
+
+}
+
+.submit2 {
+    background: rgb(121, 121, 216);
+    border-radius: 10px;
+    padding: 8px 16px;
+    font-size: 12px;
+    font-weight: 700;
+}

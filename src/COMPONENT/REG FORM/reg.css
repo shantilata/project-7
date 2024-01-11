@@ -1,0 +1,71 @@
+.wrap1 {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("/public/Asset/3D-Birds-Live-Wallpaper-App-for-Android.jpg");
+    background-size: cover;
+    flex: 1;
+}
+
+.custom-wrap1 {
+    margin: 16px;
+    width: 500px;
+    background: rgb(246, 240, 240, 0.2);
+    border-radius: 25px;
+    backdrop-filter: blur(4px);
+
+}
+
+.text1 {
+    padding: 16px;
+    font-size: 36px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    color: rgb(153 3 3);
+}
+
+.custom-input1 {
+    height: 50px;
+    outline: none;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    background-color: rgb(207, 237, 237);
+    vertical-align: middle;
+    font-size: 18px;
+    color: rgb(34, 27, 27);
+    padding-left: 16px;
+}
+
+.custom-input-group1 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    align-items: stretch;
+    margin-bottom: 10px;
+}
+
+.custom-form1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px;
+
+
+}
+
+.custom-level1 {
+    text-align: left;
+    margin-bottom: -2px;
+    color: rgb(6, 6, 84);
+
+}
+
+.submit1 {
+    background: rgb(121, 121, 216);
+    border-radius: 10px;
+    padding: 8px 16px;
+    font-size: 12px;
+    font-weight: 700;
+}
